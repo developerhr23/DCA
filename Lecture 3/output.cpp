@@ -13,5 +13,6 @@ int main(){
     }
 
     cout<<a;
+    cout<< "bye bye!";
     
 }
